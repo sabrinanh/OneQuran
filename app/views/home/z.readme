@@ -1,0 +1,14 @@
+Urutan 
+
+layouts/header.php
+
+home/home.php
+home/abput.php
+home/subjects.php
+home/courses.php
+home/teacher.php
+home/review.php
+home/blog.php
+home/contact.php
+
+layouts/footer.php
